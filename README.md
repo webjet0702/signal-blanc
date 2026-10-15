@@ -9,6 +9,15 @@ québécois.
 > froid anormal s'installe. Vos deux collègues sont partis et ne sont pas
 > revenus. Ce matin, le feu est éteint.
 
+![Le château Bérard en ruine, au bord du lac gelé](captures/chateau.jpg)
+
+| | |
+|---|---|
+| ![Le camp des géologues et son feu](captures/camp.jpg) | ![Une cabane de trappeur abandonnée sous la neige](captures/trappeur.jpg) |
+
+Un jeu fait par deux lycéens avec [Godot](https://godotengine.org), un moteur de
+jeu gratuit et libre. Le fichier ci-dessous contient seulement le jeu.
+
 ## Télécharger (Mac)
 
 ### 👉 [Télécharger Signal blanc pour Mac](https://github.com/webjet0702/signal-blanc/raw/main/Signal-blanc-Mac.zip) (223 Mo)
@@ -16,8 +25,10 @@ québécois.
 Marche sur les Mac à puce Apple (M1 et plus récents) et sur les Mac Intel.
 
 1. Ouvrez le fichier téléchargé, puis glissez **Signal blanc** dans **Applications**.
-2. Lancez le jeu. macOS le bloque la première fois : le jeu n'est pas
-   certifié par Apple. Cliquez **Terminé**.
+2. Lancez le jeu. macOS le bloque la première fois et affiche « Apple n'a pas
+   pu vérifier… ». Ce n'est pas le signe d'un virus : Apple ne certifie que les
+   jeux dont l'auteur paie un abonnement développeur (99 $ par an), ce que
+   des lycéens ne font pas pour un jeu en test. Cliquez **Terminé**.
 3. Ouvrez **Réglages Système → Confidentialité et sécurité**. Tout en bas,
    cliquez **Ouvrir quand même**, puis tapez le mot de passe du Mac.
 4. Si macOS dit plutôt que l'application est « endommagée », ouvrez le
